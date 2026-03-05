@@ -4,6 +4,9 @@ Static landing page for the [next-mongo-connect](https://npmjs.com/package/next-
 
 Built with plain HTML/CSS/JS — no framework, no build step.
 
+## Screenshots
+![next mongo connect](./931shots_so.png)
+
 ## Local Preview
 
 Just open `index.html` in a browser. No server needed.
